@@ -95,9 +95,3 @@ This is a static site, but you could extend it by:
 * Built with Bootstrap 4 for quick layout
 * Images used are placeholder images from the original design
 
-
-If you're using this for a school project, portfolio, or client — good luck and have fun! 😄
-
----
-
-Would you like this saved as a downloadable `README.md` file? I can generate that for you too.
